@@ -1,7 +1,7 @@
 import requests
 
 def ping(url):
-    """Pings the url.
+    """Pings the url !!
 
     Args:
     url : A string representing the url to ping.
