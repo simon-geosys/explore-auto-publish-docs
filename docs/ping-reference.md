@@ -1,0 +1,3 @@
+# ping module
+
+::: pingpy.ping
